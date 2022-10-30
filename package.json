@@ -1,0 +1,28 @@
+{
+  "name": "bank-challenge",
+  "version": "1.0.0",
+  "description": "Bank Challenge ",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "jasmine",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hochungyan/bank-challenge.git"
+  },
+  "author": "Chung Yan Ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hochungyan/bank-challenge/issues"
+  },
+  "homepage": "https://github.com/hochungyan/bank-challenge#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "jasmine": "^4.4.0"
+  }
+}
